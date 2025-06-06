@@ -3,7 +3,7 @@ title: Hongyu Hè
 position: PhD student (first year)
 affiliation: Princeton University
 affiliation_link: https://www.princeton.edu/
-affiliation_logo: ./assets/img/princeton.svg
+affiliation_logo: ./assets/img/pu_long.svg
 email: hhy (at) g.princeton.edu
 
 # Search Engine Optimization (SEO)
@@ -28,8 +28,8 @@ twitter: https://twitter.com/YaoyaoLiu1/
 avatar: ./assets/img/me_pton_square.jpg
 
 # Footnotes
-footnote: Feel free to use my website's source code.
-footnote_link: https://github.com/yaoyao-liu/minimal-light
+footnote: © 2025 The Trustees of Princeton University.
+footnote_link: https://accessibility.princeton.edu/
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
