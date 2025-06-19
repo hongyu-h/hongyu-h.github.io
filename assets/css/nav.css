@@ -1,6 +1,6 @@
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: #EE7F2D;
+    background-color: #000000;
     overflow: hidden;
 	  position:fixed;
 	  z-index:999;
@@ -18,7 +18,7 @@
 
   .topnav img {
     margin-bottom:0pt;
-    margin-top:10pt;
+    margin-top:8pt;
     margin-left:30%;
   }
   
@@ -29,7 +29,7 @@
     text-align: center;
     padding: 10px 9px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 20px;
   }
   
   /* Change the color of links on hover */
@@ -133,7 +133,7 @@
         float: none;
         padding: 14px 16px;
         text-decoration: none;
-        font-size: 17px;
+        font-size: 20px;
         display: block;
       }
 
@@ -141,7 +141,7 @@
         color: white;
         display: block;
         padding: 10px 16px;
-        font-size: 17px;
+        font-size: 20px;
         position: absolute;
         float: right;
         right: 0;
@@ -154,7 +154,7 @@
         float: none;
         padding: 14px 16px;
         text-decoration: none;
-        font-size: 17px;
+        font-size: 20px;
         display: block;
         margin-right:0;
       }
