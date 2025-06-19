@@ -36,8 +36,16 @@
   
   /* Change the color of links on hover */
   .topnav a.normal:hover {
-    background-color: #ddd;
-    color: black;
+    /* background-color: #ddd; */
+    color: #EE7F2D;
+    /* Underline */
+    /* text-decoration: underline; */
+    /* Underline color */
+    /* text-decoration-color: #f2f2f2; */
+    /* Gradually expand underline from the center */
+    /* text-decoration-style: solid; */
+    /* Thickness of the underline */
+    /* text-decoration-thickness: 2px; */
   }
   
   /* Add a color to the active/current link */
