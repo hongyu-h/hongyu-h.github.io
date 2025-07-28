@@ -97,21 +97,61 @@
     
 
     <script src="../assets/js/vanilla-back-to-top.min.js"></script>
-    <script>addBackToTop({
+    <script>
+      addBackToTop({
         backgroundColor: '#fff',
         innerHTML: 'Back to Top',
         textColor: '#333'
-      })
+      });
+      var homeButton = document.createElement("a");
+      homeButton.href = "/";
+      homeButton.id = "back-to-home";
+      homeButton.className = "button";
+      homeButton.innerHTML = "Home";
+      document.body.appendChild(homeButton);
+
+      function checkScroll(){
+        var backToTop = document.getElementById('back-to-top');
+        if (backToTop.classList.contains('hidden')) {
+            homeButton.classList.add('hidden');
+        } else {
+            homeButton.classList.remove('hidden');
+        }
+      }
+      window.addEventListener('scroll', checkScroll);
+      checkScroll();
     </script>
     <style>
         #back-to-top {
+            border: 1px solid #ccc;
+            border-radius: 0;
+            font-size: 15px;
+            width: 75px;
+            text-align: center;
+            line-height: 20px;
+            height: 20px;
+        }
+        #back-to-home {
           border: 1px solid #ccc;
-          border-radius: 0;
+          border-radius: 50%;
           font-size: 15px;
-          width: 100px;
+          width: 40px;
+          height: 40px;
           text-align: center;
-          line-height: 30px;
-          height: 30px;
+          line-height: 40px;
+          bottom: 55px;
+          right: 20px;
+          position: fixed;
+          background: #fff;
+          color: #333;
+          text-decoration: none;
+          -webkit-box-shadow:0 2px 5px 0 rgba(0,0,0,.26);
+          -moz-box-shadow:0 2px 5px 0 rgba(0,0,0,.26);
+          box-shadow:0 2px 5px 0 rgba(0,0,0,.26);
+        }
+        #back-to-home.hidden {
+          bottom: -100px;
+          opacity: 0;
         }
     </style>
     

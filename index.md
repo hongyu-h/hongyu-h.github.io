@@ -25,6 +25,8 @@ Hongyu Hè \ˈho:nˌu hə\ is a first-year PhD student at Princeton, advised by 
       <!-- </div> -->
   </div>
 </div>
+<div style="margin-top: 10px;"></div>
+
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://hongyuhe.github.io/assets/images/ibm_logo.png" class="company-logo teaser img-fluid z-depth-1">
@@ -35,6 +37,8 @@ Hongyu Hè \ˈho:nˌu hə\ is a first-year PhD student at Princeton, advised by 
       <div class="author">Engineering Intern (spring 2024, part-time)</div>
   </div>
 </div>
+<div style="margin-top: 10px;"></div>
+
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://hongyuhe.github.io/assets/images/apple_logo.png" class="company-logo teaser img-fluid z-depth-1">
@@ -45,6 +49,8 @@ Hongyu Hè \ˈho:nˌu hə\ is a first-year PhD student at Princeton, advised by 
       <div class="author">Research Engineer Intern (summer 2023)</div>
   </div>
 </div>
+<div style="margin-top: 10px;"></div>
+
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://hongyuhe.github.io/assets/images/oracle_logo.jpeg" class="company-logo teaser img-fluid z-depth-1">
@@ -55,6 +61,8 @@ Hongyu Hè \ˈho:nˌu hə\ is a first-year PhD student at Princeton, advised by 
       <div class="author">Graal Cloud Native Intern (spring 2023, part-time)</div>
   </div>
 </div>
+<div style="margin-top: 10px;"></div>
+
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://hongyuhe.github.io/assets/images/huawei_logo.png" class="company-logo teaser img-fluid z-depth-1">
@@ -65,6 +73,8 @@ Hongyu Hè \ˈho:nˌu hə\ is a first-year PhD student at Princeton, advised by 
       <div class="author">R&D Intern (winter 2021)</div>
   </div>
 </div>
+<div style="margin-top: 10px;"></div>
+
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://hongyuhe.github.io/assets/images/picnic_logo.png" class="company-logo teaser img-fluid z-depth-1">

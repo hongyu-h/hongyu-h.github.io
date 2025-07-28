@@ -110,13 +110,13 @@
     </script>
     <style>
         #back-to-top {
-          border: 1px solid #ccc;
-          border-radius: 2px;
-          font-size: 15px;
-          width: 100px;
-          text-align: center;
-          line-height: 30px;
-          height: 30px;
+            border: 1px solid #ccc;
+            border-radius: 0;
+            font-size: 15px;
+            width: 75px;
+            text-align: center;
+            line-height: 20px;
+            height: 20px;
         }
     </style>
     
@@ -194,10 +194,14 @@
         {% endif %}
 
         {% if site.goodreads %}
-        <a style="margin: 0 0 0 0" href="{{ site.goodreads }}">
+        <a style="margin: 0 5px 0 0" href="{{ site.goodreads }}">
           <i class="fab fa-goodreads"></i>
         </a>
         {% endif %}
+
+        <a style="margin: 0 0 0 0" href="https://hongyu.nl/">
+          <i class="fas fa-link"></i>
+        </a>
         </div>
         {% endif %}
         <br>
