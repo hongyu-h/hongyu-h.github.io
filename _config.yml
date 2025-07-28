@@ -1,0 +1,50 @@
+# Basic Information 
+title: Hongyu Hè
+position: PhD student (G1)
+affiliation: Princeton University
+affiliation_link: https://www.princeton.edu/
+affiliation_logo: ./assets/img/pu_stack.svg
+email: hhy at g.princeton.edu
+
+# Search Engine Optimization (SEO)
+keywords: hongyu hè, hongyu he, hongyu he eth, phd student, princeton university, machine learning, computer networks, formal methods, hongyu he princeton, hongyu he phd, hongyu he machine learning, hongyu he computer networks, hongyu he formal methods
+canonical: https://hhy.ee.princeton.edu
+description: Hongyu Hè is a first-year PhD student at Princeton University.
+
+# The option is used to enable the Illinois template.
+enable_hopkins_logo: true
+
+# The option is used to show the last update time.
+enable_last_update: false
+
+# Links
+link_type: icon #text/icon
+google_scholar: https://scholar.google.com/citations?user=5tCb78AAAAAJ&sortby=pubdate
+github_link: https://github.com/HongyuHe/
+linkedin: https://www.linkedin.com/in/HongyuHe/
+youtube: https://www.youtube.com/@hongyu_he
+coding: https://icpc.global/ICPCID/P6FW61RKNZPX
+goodreads: "https://goodreads.com/hongyu"
+
+# Images 
+avatar: https://hongyu.nl/assets/images/me_pton_square.jpg 
+
+# Footnotes
+footnote: © 2025 The Trustees of Princeton University.
+footnote_link: https://accessibility.princeton.edu/
+
+# Analytics
+# Please remove the following lines about analytics services if you fork my project. 
+# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
+# clustrmaps_id: HV0rAUdAxpfEQLOsVs0FcJTR2rKVI5sEQUZIDM-N_HY
+
+# The following files will be removed from the generated website.
+include:
+  - pages
+exclude:
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME

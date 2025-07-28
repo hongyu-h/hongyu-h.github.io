@@ -1,0 +1,24 @@
+main:
+
+  - title: "Book Club"
+    url: bookclub/
+    right: true 
+
+  - title: "Teaching"
+    url: teaching/
+
+  # - title: "Services"
+  #   url: services/
+
+  - title: "Mentoring"
+    url: mentees/
+
+
+  #- title: "Teaching"
+  #  url: ./teaching.html
+
+  # - title: "Publications"
+  #   url: publications/
+
+  - title: "Home"
+    url: ./
