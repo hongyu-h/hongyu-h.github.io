@@ -103,9 +103,9 @@
 
     <script src="./assets/js/vanilla-back-to-top.min.js"></script>
     <script>addBackToTop({
-        backgroundColor: '#fff',
+        backgroundColor: 'black',
         innerHTML: 'Back to Top',
-        textColor: '#333'
+        textColor: '#EE7F2D'
       })
     </script>
     <style>
@@ -187,21 +187,23 @@
         </a>
         {% endif %}
 
-        {% if site.coding %}
-        <a style="margin: 0 5px 0 0" href="{{ site.coding }}">
-          <i class="fas fa-code"></i>
-        </a>
-        {% endif %}
-
         {% if site.goodreads %}
         <a style="margin: 0 5px 0 0" href="{{ site.goodreads }}">
           <i class="fab fa-goodreads"></i>
         </a>
         {% endif %}
 
-        <a style="margin: 0 0 0 0" href="https://hongyu.nl/">
+        {% if site.coding %}
+        <a style="margin: 0 5px 0 0" href="{{ site.coding }}">
+          <i class="fas fa-code"></i>
+        </a>
+        {% endif %}
+
+        {% if site.blog %}
+        <a style="margin: 0 0 0 0" href="{{ site.blog }}">
           <i class="fas fa-link"></i>
         </a>
+        {% endif %}
         </div>
         {% endif %}
         <br>

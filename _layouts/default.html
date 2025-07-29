@@ -99,9 +99,9 @@
     <script src="../assets/js/vanilla-back-to-top.min.js"></script>
     <script>
       addBackToTop({
-        backgroundColor: '#fff',
+        backgroundColor: 'black',
         innerHTML: 'Back to Top',
-        textColor: '#333'
+        textColor: '#EE7F2D'
       });
       var homeButton = document.createElement("a");
       homeButton.href = "/";
@@ -142,8 +142,8 @@
           bottom: 55px;
           right: 20px;
           position: fixed;
-          background: #fff;
-          color: #333;
+          background: 'black',
+          color: '#EE7F2D',
           text-decoration: none;
           -webkit-box-shadow:0 2px 5px 0 rgba(0,0,0,.26);
           -moz-box-shadow:0 2px 5px 0 rgba(0,0,0,.26);
@@ -222,15 +222,21 @@
         </a>
         {% endif %}
 
+        {% if site.goodreads %}
+        <a style="margin: 0 0 0 0" href="{{ site.goodreads }}">
+          <i class="fab fa-goodreads"></i>
+        </a>
+        {% endif %}
+
         {% if site.coding %}
         <a style="margin: 0 5px 0 0" href="{{ site.coding }}">
           <i class="fas fa-code"></i>
         </a>
         {% endif %}
-
-        {% if site.goodreads %}
-        <a style="margin: 0 0 0 0" href="{{ site.goodreads }}">
-          <i class="fab fa-goodreads"></i>
+        
+        {% if site.blog %}
+        <a style="margin: 0 0 0 0" href="{{ site.blog }}">
+          <i class="fas fa-link"></i>
         </a>
         {% endif %}
         </div>
