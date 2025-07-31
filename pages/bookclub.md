@@ -20,7 +20,7 @@ Sign up [here](https://cutt.ly/schedule-signup)! (deadline: Feb 16), and let's c
 4.  Gokula Krishnan Santhanam (Apple Zurich)
 5.  Konstantinos Kopsinis (Harvard)
 6.  Melissa Pan (Berkeley)
-7.  Khánh Vũ (ETH Zurich)
+7.  Khánh Vũ (ETH)
 8.  Fengshi Zheng (TU Delft)
 
 *Ordered by last name*

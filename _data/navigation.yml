@@ -1,24 +1,25 @@
 main:
 
-  - title: "Book Club"
-    url: bookclub/
+  # - title: "Book Club"
+  #   url: bookclub/
+  #   right: true 
+
+  - title: "Service"
+    url: service/
     right: true 
 
   - title: "Teaching"
     url: teaching/
 
-  # - title: "Services"
-  #   url: services/
-
   - title: "Mentoring"
     url: mentees/
 
+  - title: "Publications"
+    url: https://scholar.google.com/citations?user=5tCb78AAAAAJ&sortby=pubdate
 
   #- title: "Teaching"
   #  url: ./teaching.html
 
-  # - title: "Publications"
-  #   url: publications/
 
   - title: "Home"
     url: ./

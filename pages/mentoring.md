@@ -11,21 +11,22 @@ permalink: /mentees/
 <!-- <h2 style="margin: 60px 0px -15px;">Mentoring</h2>
 <br> -->
 
+## Students
 
 I’ve had the privilege to collaborate with the following excellent undergrads at Princeton:
 
 * Carter Costic (CS ’27)
-* Chinmayi Ramasubramanian (CS ’28)
 * Harshini Srinath (EE ’28)
-* Anna Caroline Behrend Eaton (EE alum, now PhD student at Stanford)
+* Chinmayi Ramasubramanian (CS ’28)
+* Anna Caroline Behrend Eaton (EE alum → PhD at Stanford)
 
-as well as the following excellent undergrads outside Princeton:
+as well as the following outstanding students outside Princeton:
 * Ryan Jeronimus (Virginia Tech EE ’28, summer intern 2025)
 * Tanusri Ramakrishnan (Rutgers EE ’28, summer intern 2025)
 
-### Working with me
+## Working with me
 
-If you are at Princeton and interested in working with me, please consider applying to the following **founded programs**:
+If you are at Princeton and interested in working with me, please consider applying to the following **research programs**:
 * [OURSIP](https://undergraduateresearch.princeton.edu/programs/summer-programs/oursip)
 * [ReMatch](https://undergraduateresearch.princeton.edu/programs/rematch)
 * [Independent work](https://undergraduateresearch.princeton.edu/independent-work)
