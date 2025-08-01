@@ -16,7 +16,7 @@ permalink: /teaching/
 * My tutorial [videos on YouTube](https://youtube.com/playlist?list=PLfgourSZCy8XKj5HgAGsfI2eRQAJ-2dXU&si=v6Gc8jiFCaM5_Hkz)
 
 ### Distributed Systems Lab (ETH Zürich)
-* Frühjahrs 2022, [252-0817-00P](https://textbooks.inf.ethz.ch/lectures/keine-literatur/139/) 
+* Frühjahrs 2022, [252-0817-00P](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=158003&semkez=2022S&ansicht=LEHRVERANSTALTUNGEN&lang=en) 
 
 From 2019 to 2021, I served a TA at Vrije Universiteit Amsterdam (CS) and Universiteit van Amsterdam (Math) for the following courses:
 * Physical Computing
