@@ -7,7 +7,7 @@ permalink: /bookclub/
 <br>
 <br>
 
-# CS Book Club
+# Princeton CS Book Club
 
 ## Spring 2025
 
