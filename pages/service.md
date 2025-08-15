@@ -23,5 +23,5 @@ permalink: /service/
 * ASPLOS 2022: [Turbocharging Serverless Research with vHive](https://ease-lab.github.io/vhive-asplos22/)
 
 ## CS Book Club
-At Princeton, I organize a book club sponsored by the CS department. 
+At Princeton, I organize a book club in the CS department. 
 See [this page](/bookclub) for more details.
