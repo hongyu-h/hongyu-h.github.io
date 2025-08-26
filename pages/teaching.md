@@ -9,7 +9,7 @@ permalink: /teaching/
 # Teaching
 
 ### Computer Networks (Princeton)
-* Fall 2025, [COS461/ECE471](https://www.cs.princeton.edu/courses/archive/fall25/cos461/)
+* Fall 2025 [COS461/ECE471](https://www.cs.princeton.edu/courses/archive/fall25/cos461/), **Head TA**
 
 ### Big Data (ETH Zürich)
 * Herbst 2023, [263-​3010-00L](https://systems.ethz.ch/education/courses/2023-autumn-semester/big-data.html)
