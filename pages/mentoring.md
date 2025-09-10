@@ -15,10 +15,11 @@ permalink: /mentees/
 
 I’ve had the privilege to collaborate with the following excellent undergrads at Princeton:
 
+* Abdur-Raheem Idowu (CS ’25)
 * Carter Costic (CS ’27)
 * Harshini Srinath (EE ’28)
 * Chinmayi Ramasubramanian (CS ’28)
-* Anna Caroline Behrend Eaton (EE alum → PhD at Stanford)
+* Anna Caroline Behrend Eaton (EE ’24 → PhD at Stanford)
 
 as well as the following outstanding students outside Princeton:
 * Ryan Jeronimus (Virginia Tech EE ’28, summer intern 2025)
