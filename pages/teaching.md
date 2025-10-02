@@ -10,7 +10,7 @@ permalink: /teaching/
 
 ### Computer Networks (Princeton)
 * Fall 2025 [COS461/ECE471](https://www.cs.princeton.edu/courses/archive/fall25/cos461/), **Head TA**
-    * Office hours: Tue 2:30-4:30pm @ CS 302
+    * Office hours: Tue 2:30-4:30pm @ CS 201
 
 ### Big Data (ETH Zürich)
 * Herbst 2023, [263-​3010-00L](https://systems.ethz.ch/education/courses/2023-autumn-semester/big-data.html)
