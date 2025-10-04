@@ -8,11 +8,11 @@ main:
     url: service/
     right: true 
 
-  - title: "Teaching"
-    url: teaching/
-
   - title: "Mentoring"
     url: mentees/
+
+  - title: "Teaching"
+    url: teaching/
 
   - title: "Publications"
     url: https://scholar.google.com/citations?user=5tCb78AAAAAJ&sortby=pubdate
