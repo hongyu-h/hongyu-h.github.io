@@ -10,6 +10,7 @@ permalink: /mentees/
 
 <!-- <h2 style="margin: 60px 0px -15px;">Mentoring</h2>
 <br> -->
+Before reaching out to me, please read my [mentoring statement <i class="fas fa-file-pdf" aria-hidden="true"></i>](../archive/mentoring.pdf).
 
 ## Students
 
