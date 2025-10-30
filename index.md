@@ -8,9 +8,9 @@ layout: homepage
 
 Hongyu Hè `\ˈho:nˌu hə\` is a second-year PhD student in Electrical Engineering at Princeton, advised by [Prof. Maria Apostolaki](https://netsyn.princeton.edu/people/maria-apostolaki). He is a [NAM](https://nam.ai.princeton.edu/) Fellow in AI and [UA](https://gradfutures.princeton.edu/gain-experience/university-administrative-fellowships) Fellow in Computer Science (CS). His research sits at the intersection of computer networking, formal logic, and machine learning. Hongyu earned his MSc in CS from ETH Zürich as one of six [Direct Doctoral Scholars](https://inf.ethz.ch/doctorate/direct-doctorate-computer-science.html) in 2024. At ETH, he worked with [Prof. Gustavo Alonso](https://people.inf.ethz.ch/alonso/) in the [Systems Group](https://systems.ethz.ch/) on FPGA research and was an associated researcher at the [AI Center](https://ai.ethz.ch/). Hongyu previously studied Math and CS in Amsterdam, where he was led into research by [Prof. Andrew S. Tanenbaum](https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum) and graduated with the [ADS Thesis Award](https://abs.uva.nl/content/news/2021/07/the-2021-ads-thesis-awards-are-now-open-for-nominations.html). In 2019, he was named a top-10 college student nationwide in CS (Informatica) by the [Royal Holland Society](https://khmw.nl/over_ons/). Originally, Hongyu attended [law school](https://law.tju.edu.cn/English.htm) in China before turning to science and engineering. 
 
-<!-- ---
+*I'm looking for internship opportunities for summer 2026. Please feel free to <a href="#contact">get in touch</a> if you’re interested in connecting.*
 
-[CV: [<i class="fas fa-file-pdf" aria-hidden="true"></i>](https://cutt.ly/ptoncv)] -->
+<!-- ---[CV: [<i class="fas fa-file-pdf" aria-hidden="true"></i>](https://cutt.ly/ptoncv)] -->
 
 <h2 style="margin: 60px 0px 10px;">Selected Publications (<a href="{{ site.google_scholar }}" target="_blank">see all</a>)</h2>
 
