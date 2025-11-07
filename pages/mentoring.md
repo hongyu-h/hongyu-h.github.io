@@ -16,7 +16,7 @@ Before reaching out to me, please glance through my [mentoring statement <i clas
 
 I’ve had the privilege to collaborate with the following excellent undergrads at Princeton:
 
-* Abdur-Raheem Idowu (CS ’25)
+* Abdur-Raheem Idowu (CS ’26)
 * Carter Costic (CS ’27)
 * Harshini Srinath (EE ’28)
 * Chinmayi Ramasubramanian (CS ’28)
