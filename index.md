@@ -12,7 +12,7 @@ Hongyu Hè `\ˈho:nˌu hə\` is a second-year PhD student in Electrical Engineer
 
 <!-- ---[CV: [<i class="fas fa-file-pdf" aria-hidden="true"></i>](https://cutt.ly/ptoncv)] -->
 
-<h2 style="margin: 60px 0px 10px;">Selected Publications (<a href="{{ site.google_scholar }}" target="_blank">see all</a>)</h2>
+<h2 style="margin: 60px 0px 10px;">Selected Publications (<a href="{{ site.google_scholar }}" target="_blank">full list</a>)</h2>
 
 {% include selected_publication.md %}
 
