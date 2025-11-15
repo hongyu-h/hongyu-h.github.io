@@ -5,7 +5,7 @@ For academic inquiries: <samp>hhy@g.princeton</samp>
 <br />
 For campus activities: <samp>hhy@cs.princeton</samp>
 <br />
-For perconal matters: <samp>hongyuhe.cs@googlemail</samp>
+For other matters: <samp>hongyuhe.cs@googlemail</samp>
 <p>
 
 5G, 2nd Floor, Friend Center
