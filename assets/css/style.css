@@ -378,8 +378,8 @@ header ul a:active {
 }
 
 strong {
-	color: #222;
-	font-weight: 700;
+	color: #000;
+	font-weight: 800;
 }
 
 header ul li+li+li {
