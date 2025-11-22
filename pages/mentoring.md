@@ -38,7 +38,7 @@ If you are from outside Princeton and interested in working with me, please cons
 * [Princeton AI/ML REU](https://www.cs.princeton.edu/diversity-and-outreach/princeton-research-experience-undergrads-ai-and-machine-learning)
 
 
-<p class="badgr-badge" style="font-family: serif, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://badgr.com/public/assertions/-OGvZyXCTwyg_SXGV2ptNg">
+<p class="badgr-badge" style="font-family: serif"><a href="https://badgr.com/public/assertions/-OGvZyXCTwyg_SXGV2ptNg">
 <b>Fun fact</b>: I'm one of 10 research mentors certified by Princeton Graduate School.
 <br>
 <img width="30%" src="https://api.badgr.io/public/assertions/-OGvZyXCTwyg_SXGV2ptNg/image"></a><script async="async" src="https://princetonconnect.badgr.com/assets/widgets.bundle.js"></script>
