@@ -16,11 +16,11 @@ Before reaching out to me, please glance through my [mentoring statement <i clas
 
 I’ve had the privilege to collaborate with the following excellent undergrads at Princeton:
 
-* Abdur-Raheem Idowu (CS ’26)
-* Carter Costic (CS ’27)
-* Harshini Srinath (EE ’28)
-* Chinmayi Ramasubramanian (CS ’28)
-* Anna Caroline Behrend Eaton (EE ’24 → PhD at Stanford)
+* Abdur-Raheem Idowu (CS ’26): _OFDMA and WiFi security_
+* Carter Costic (CS ’27): _Datacenter networking and incast mitigation_
+* Harshini Srinath (EE ’28): _WiFi security and ML_
+* Chinmayi Ramasubramanian (CS ’28): _Network rule analysis with LLMs_
+* Anna Caroline Behrend Eaton (EE ’24 → PhD at Stanford): _Website fingerprinting_
 
 as well as the following outstanding students outside Princeton:
 * Ryan Jeronimus (Virginia Tech EE ’28, summer intern 2025)
@@ -38,8 +38,8 @@ If you are from outside Princeton and interested in working with me, please cons
 * [Princeton AI/ML REU](https://www.cs.princeton.edu/diversity-and-outreach/princeton-research-experience-undergrads-ai-and-machine-learning)
 
 
-<p class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://badgr.com/public/assertions/-OGvZyXCTwyg_SXGV2ptNg">
-<b>Fun fact</b>: I'm one of 10 certified research mentors by Princeton Graduate School.
+<p class="badgr-badge" style="font-family: serif, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://badgr.com/public/assertions/-OGvZyXCTwyg_SXGV2ptNg">
+<b>Fun fact</b>: I'm one of 10 research mentors certified by Princeton Graduate School.
 <br>
 <img width="30%" src="https://api.badgr.io/public/assertions/-OGvZyXCTwyg_SXGV2ptNg/image"></a><script async="async" src="https://princetonconnect.badgr.com/assets/widgets.bundle.js"></script>
 </p>

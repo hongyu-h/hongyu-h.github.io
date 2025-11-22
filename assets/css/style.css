@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,500;1,600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
 
@@ -380,6 +380,25 @@ header ul a:active {
 strong {
 	color: #000;
 	font-weight: 800;
+}
+
+em {
+	font-weight: 400;
+}
+
+i:not([class]) {
+	font-weight: 400;
+}
+
+strong em,
+strong i:not([class]) {
+	font-weight: 400;
+}
+
+.note-text {
+	color: #e74d3c;
+	font-style: italic;
+	font-weight: 400;
 }
 
 header ul li+li+li {
