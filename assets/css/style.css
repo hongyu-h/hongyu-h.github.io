@@ -33,16 +33,66 @@ body {
 	font-size: 1.15rem;
 	line-height: 2.5rem;
 	margin-right: 1rem;
+	position: relative;
+	overflow: visible;
 }
 
 .social-icons a:last-child {
 	margin-right: 0;
 }
 
-.social-icons a:hover {
+.social-icons a:hover,
+.social-icons a:focus {
 	background-color: white;
 	color: black;
-	transform: scale(1.2);
+	transform: scale(1.08);
+}
+
+.social-icons a::after {
+	content: attr(data-label);
+	position: absolute;
+	bottom: 108%;
+	left: 50%;
+	transform: translate(-50%, 6px);
+	background: #111;
+	color: #fff;
+	padding: 0.28rem 0.5rem;
+	border-radius: 0.55rem;
+	font-size: 0.8rem;
+	font-weight: 600;
+	letter-spacing: 0.01em;
+	opacity: 0;
+	pointer-events: none;
+	white-space: nowrap;
+	box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+	transition: opacity 0.15s ease, transform 0.15s ease;
+	z-index: 2;
+}
+
+.social-icons a::before {
+	content: "";
+	position: absolute;
+	bottom: 100%;
+	left: 50%;
+	transform: translate(-50%, 6px);
+	border: 6px solid transparent;
+	border-top-color: #111;
+	opacity: 0;
+	transition: opacity 0.15s ease, transform 0.15s ease;
+	z-index: 1;
+}
+
+.social-icons a:hover::after,
+.social-icons a:hover::before,
+.social-icons a:focus::after,
+.social-icons a:focus::before {
+	opacity: 1;
+	transform: translate(-50%, 0);
+}
+
+.social-icons a:focus-visible {
+	outline: 2px solid #111;
+	outline-offset: 3px;
 }
 
 .icon-button {
