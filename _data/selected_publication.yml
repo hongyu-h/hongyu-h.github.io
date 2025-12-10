@@ -2,7 +2,7 @@ main:
   - title: "Making Logic a First-Class Citizen in Network Data Generation with ML"
     authors: Hongyu Hè, Minhao Jin, Maria Apostolaki
     conference_short: NSDI
-    conference: 2025 USENIX NSDI (to appear)
+    conference: 2026 USENIX NSDI (to appear)
     title_link: https://arxiv.org/abs/2506.23964v2
     pdf: https://arxiv.org/pdf/2506.23964
     # notes: To appear
