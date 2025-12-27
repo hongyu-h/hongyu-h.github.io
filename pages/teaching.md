@@ -19,7 +19,7 @@ permalink: /teaching/
 * Herbst 2023, [263-​3010-00L](https://systems.ethz.ch/education/courses/2023-autumn-semester/big-data.html)
 * My tutorial [playlist](https://youtube.com/playlist?list=PLfgourSZCy8XKj5HgAGsfI2eRQAJ-2dXU&si=v6Gc8jiFCaM5_Hkz):
 
-    <iframe width="90%" height="250" src="https://www.youtube.com/embed/yyU_p-S1m18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="90%" height="250" src="https://www.youtube.com/embed/uEtbE7WuxdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Distributed Systems Lab (ETH Zürich)
 * Frühjahrs 2022, [252-0817-00P](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=158003&semkez=2022S&ansicht=LEHRVERANSTALTUNGEN&lang=en) 
