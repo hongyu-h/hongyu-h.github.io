@@ -4,11 +4,13 @@ title: Service
 permalink: /service/
 ---
 
-
 <br>
 
 # Service
 
+## CS Book Club
+At Princeton, I organize a book club in the CS department. 
+See [this page](/bookclub) for more details.
 
 ## Artifact Evaluation Committee
 * MLSys 2023
@@ -21,7 +23,3 @@ permalink: /service/
 
 ## Tutorials
 * ASPLOS 2022: [Turbocharging Serverless Research with vHive](https://ease-lab.github.io/vhive-asplos22/)
-
-## CS Book Club
-At Princeton, I organize a book club in the CS department. 
-See [this page](/bookclub) for more details.
