@@ -10,7 +10,7 @@ Hongyu Hè `\ˈho:nˌu hə\` is a second-year PhD student in Electrical Engineer
 
 ---
 
-*(I'm looking for internship opportunities for summer/winter 2026. Please <a href="#contact">get in touch</a> if you’re interested in connecting.)*
+<!-- *(I'm looking for internship opportunities for summer/winter 2026. Please <a href="#contact">get in touch</a> if you’re interested in connecting.)* -->
 
 <!-- ~~*(I'm looking for internship opportunities for summer/winter 2026. Please <a href="#contact">get in touch</a> if you’re interested in connecting.)*~~ 
 *I’ve received offers from Microsoft and Google. Thank you to everyone who reached out and supported me.* -->
