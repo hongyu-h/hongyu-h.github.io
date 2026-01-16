@@ -21,10 +21,10 @@ enable_last_update: false
 link_type: icon #text/icon
 google_scholar: https://scholar.google.com/citations?user=5tCb78AAAAAJ&sortby=pubdate
 github_link: https://github.com/HongyuHe/
-linkedin: https://www.linkedin.com/in/HongyuHe/
+# linkedin: https://www.linkedin.com/in/HongyuHe/
 youtube: https://www.youtube.com/@hongyu_he
-coding: https://icpc.global/ICPCID/P6FW61RKNZPX
-goodreads: "https://goodreads.com/hongyu"
+# coding: https://icpc.global/ICPCID/P6FW61RKNZPX
+# goodreads: "https://goodreads.com/hongyu"
 blog: https://hongyu.nl/
 
 # Images 
