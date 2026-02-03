@@ -31,7 +31,7 @@ Hongyu Hè `\ˈho:nˌu hə\` is a second-year PhD student in Electrical Engineer
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><b>Microsoft</b></div>
-      <div class="periodical"><a href="https://www.microsoft.com/en-us/research/group/networking-research/"><i>Networking Research Group</i></a> (Mentors: <a href="https://www.sivak.dev/">Siva Kakarla</a> and <a href="https://www.microsoft.com/en-us/research/people/rybecket/">Ryan Beckett</a>)</div>
+      <div class="periodical"><a href="https://www.microsoft.com/en-us/research/group/networking-research/"><i>Networking Research Group</i></a> (mentors: <a href="https://www.sivak.dev/">Siva Kakarla</a> and <a href="https://www.microsoft.com/en-us/research/people/rybecket/">Ryan Beckett</a>)</div>
       <div class="author">Research Intern — summer 2026</div>
       <!-- <div class="periodical"> -->
       <!-- </div> -->
