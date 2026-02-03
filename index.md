@@ -108,7 +108,7 @@ Hongyu Hè `\ˈho:nˌu hə\` is a second-year PhD student in Electrical Engineer
       <div class="title"><b>Picnic Technologies</b></div>
       <div class="periodical"><i>Store Team</i></div>
       <div class="author">Software Developer — 2021, part-time</div>
-      <div class="author">Software Engineer Intern — 2020</div>
+      <div class="author">Software Engineer Intern — summer 2020</div>
   </div>
 </div>
 
