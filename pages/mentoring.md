@@ -16,7 +16,7 @@ Before reaching out to me, please glance through my [mentoring statement <i clas
 
 I’ve had the privilege to collaborate with the following excellent undergrads at Princeton:
 
-* Hael Park (EE ’29): _WiFi security and ML_
+* Hael Park (EE ’30): _WiFi security and ML_
 * Abdur-Raheem Idowu (CS ’26): _OFDMA and WiFi security_
 * Carter Costic (CS ’27): _Datacenter networking and incast mitigation_
 * Harshini Srinath (EE ’28): _WiFi security and ML_
