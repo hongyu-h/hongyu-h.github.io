@@ -17,8 +17,10 @@ Before reaching out to me, please glance through my [mentoring statement <i clas
 I’ve had the privilege to collaborate with the following excellent undergrads at Princeton:
 
 * Hael Park (EE ’30): _WiFi security and ML_
-* Abdur-Raheem Idowu (CS ’26): _OFDMA and WiFi security_
+* Abdur-Raheem Idowu (CS ’26): _OFDMA and WiFi security_ 
+    * **Examplary Research Award** 🏆
 * Carter Costic (CS ’27): _Datacenter networking and incast mitigation_
+    * **Published at HotNets 2025 [<i class="fas fa-file-pdf" aria-hidden="true"></i>](../papers/2025_hotnets_proxy.pdf)** 
 * Harshini Srinath (EE ’28): _WiFi security and ML_
 * Chinmayi Ramasubramanian (CS ’28): _Network rule analysis with LLMs_
 * Anna Caroline Behrend Eaton (EE ’24 → PhD at Stanford): _Website fingerprinting_
