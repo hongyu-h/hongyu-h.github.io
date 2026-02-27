@@ -11,7 +11,8 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.title_link | default: link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
+      <div class="periodical">
+        <em>{{ link.conference }}</em>
       </div>
     <div class="links">
       {% if link.pdf %} 
@@ -39,6 +40,20 @@
       {{ link.others }}
       {% endif %}
     </div>
+    {% if link.artifact_badges %}
+    <div class="artifact-line" aria-label="Artifact badges">
+      <span class="artifact-prefix">Artifact</span>
+      {% for badge in link.artifact_badges %}
+        {% unless forloop.first %}<span class="artifact-sep">, </span>{% endunless %}
+        <span class="artifact-item">
+          {% if badge.url %}<a class="artifact-link" href="{{ badge.url }}" target="_blank" rel="noopener noreferrer">{% endif %}
+          <img class="artifact-badge" src="{{ badge.image }}" alt="{{ badge.alt | default: badge.name }}" title="{{ badge.name }}" loading="lazy" decoding="async">
+          {% if badge.url %}</a>{% endif %}
+          <span class="artifact-label{% if badge.key %} artifact-label--{{ badge.key }}{% endif %}">{{ badge.label | default: badge.name }}</span>
+        </span>
+      {% endfor %}
+    </div>
+    {% endif %}
   </div>
 </div>
 </li>

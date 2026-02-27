@@ -5,6 +5,25 @@ main:
     conference: 2026 USENIX NSDI (to appear)
     title_link: https://arxiv.org/abs/2506.23964v2
     pdf: https://arxiv.org/pdf/2506.23964
+    artifact_badges:
+      - name: Artifact Available
+        key: available
+        label: available
+        image: ../assets/img/usenixbadges-available-v2.png
+        url: https://secartifacts.github.io/usenixsec2026/badges
+        alt: USENIX artifact badge - Available
+      - name: Artifact Functional
+        key: functional
+        label: functional
+        image: assets/img/usenixbadges-functional-v2.png
+        url: https://secartifacts.github.io/usenixsec2026/badges
+        alt: USENIX artifact badge - Functional
+      - name: Artifact Reproduced
+        key: reproduced
+        label: reproduced
+        image: assets/img/usenixbadges-reproduced-v2.png
+        url: https://secartifacts.github.io/usenixsec2026/badges
+        alt: USENIX artifact badge - Reproduced
     # notes: To appear
     # video:
     # bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
