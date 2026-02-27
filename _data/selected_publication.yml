@@ -8,19 +8,19 @@ main:
     artifact_badges:
       - name: Artifact Available
         key: available
-        label: available
+        label: Available
         image: ../assets/img/usenixbadges-available-v2.png
         url: https://secartifacts.github.io/usenixsec2026/badges
         alt: USENIX artifact badge - Available
       - name: Artifact Functional
         key: functional
-        label: functional
+        label: Functional
         image: assets/img/usenixbadges-functional-v2.png
         url: https://secartifacts.github.io/usenixsec2026/badges
         alt: USENIX artifact badge - Functional
       - name: Artifact Reproduced
         key: reproduced
-        label: reproduced
+        label: Reproduced
         image: assets/img/usenixbadges-reproduced-v2.png
         url: https://secartifacts.github.io/usenixsec2026/badges
         alt: USENIX artifact badge - Reproduced

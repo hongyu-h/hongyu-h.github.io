@@ -40,21 +40,20 @@
       {{ link.others }}
       {% endif %}
     </div>
-    {% if link.artifact_badges %}
-    <div class="artifact-line" aria-label="Artifact badges">
-      <span class="artifact-prefix">Artifact</span>
-      {% for badge in link.artifact_badges %}
-        {% unless forloop.first %}<span class="artifact-sep">, </span>{% endunless %}
-        <span class="artifact-item">
-          {% if badge.url %}<a class="artifact-link" href="{{ badge.url }}" target="_blank" rel="noopener noreferrer">{% endif %}
-          <img class="artifact-badge" src="{{ badge.image }}" alt="{{ badge.alt | default: badge.name }}" title="{{ badge.name }}" loading="lazy" decoding="async">
-          {% if badge.url %}</a>{% endif %}
-          <span class="artifact-label{% if badge.key %} artifact-label--{{ badge.key }}{% endif %}">{{ badge.label | default: badge.name }}</span>
-        </span>
-      {% endfor %}
-    </div>
-    {% endif %}
-  </div>
+	    {% if link.artifact_badges %}
+	    <div class="artifact-line" aria-label="Artifact badges">
+	      {% for badge in link.artifact_badges %}
+	        {% unless forloop.first %}<span class="artifact-sep">, </span>{% endunless %}
+	        <span class="artifact-item">
+	          {% if badge.url %}<a class="artifact-link" href="{{ badge.url }}" target="_blank" rel="noopener noreferrer">{% endif %}
+	          <img class="artifact-badge" src="{{ badge.image }}" alt="{{ badge.alt | default: badge.name }}" title="{{ badge.name }}" loading="lazy" decoding="async">
+	          {% if badge.url %}</a>{% endif %}
+	          <span class="artifact-label{% if badge.key %} artifact-label--{{ badge.key }}{% endif %}">{{ badge.label | default: badge.name }}</span>
+	        </span>
+	      {% endfor %}
+	    </div>
+	    {% endif %}
+	  </div>
 </div>
 </li>
 

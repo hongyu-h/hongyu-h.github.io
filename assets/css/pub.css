@@ -78,7 +78,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .artifact-label--reproduced { color: #8250df; }
 
-.publications ol.bibliography li .artifact-badge { height: 30px; width: auto; margin-right: 0.25rem; border-radius: 4px; box-shadow: 0 1px 3px rgb(0 0 0 / 18%); vertical-align: top; }
+.publications ol.bibliography li .artifact-badge { height: 30px; width: auto; margin-left: 0; margin-right: 0.25rem; border-radius: 4px; box-shadow: 0 1px 3px rgb(0 0 0 / 18%); vertical-align: top; }
 
 .publications ol.bibliography li .links a.btn { color: #000000; border: 1px solid #000000; padding-left: 0.5rem; padding-right: 0.5rem; padding-top: 0.1rem; padding-bottom: 0.1rem; }
 
