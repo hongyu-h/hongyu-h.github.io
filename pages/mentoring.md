@@ -18,7 +18,7 @@ I’ve had the privilege to collaborate with the following excellent undergrads 
 
 * Hael Park (EE ’30): _WiFi security and ML_
 * Abdur-Raheem Idowu (CS ’26): _OFDMA and WiFi security_ 
-    * **Examplary Research Award** 🏆
+    * **Exemplary Research Award** 🏆
 * Carter Costic (CS ’27): _Datacenter networking and incast mitigation_
     * **Published at HotNets 2025 [<i class="fas fa-file-pdf" aria-hidden="true"></i>](../papers/2025_hotnets_proxy.pdf)** 
 * Harshini Srinath (EE ’28): _WiFi security and ML_
