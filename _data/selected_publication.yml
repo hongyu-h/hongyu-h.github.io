@@ -1,4 +1,10 @@
 main:
+  - title: "Worst-Case Discovery and Runtime Protection for RL-Based Network Controllers"
+    authors: Hongyu Hè, Minhao Jin, Maria Apostolaki
+    conference_short: preprint
+    conference: 2026 under review
+    pdf: ../papers/2026_reguard_preprint.pdf
+    image: ../assets/img/reguard.png
   - title: "Making Logic a First-Class Citizen in Generative ML for Networking"
     authors: Hongyu Hè, Minhao Jin, Maria Apostolaki
     conference_short: NSDI
