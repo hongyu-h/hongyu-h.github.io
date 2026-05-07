@@ -3,6 +3,7 @@ main:
     authors: <u>Hongyu Hè</u>, Minhao Jin, Maria Apostolaki
     conference_short: preprint
     conference: 2026 under review
+    title_link: https://arxiv.org/abs/2605.04373
     pdf: ../papers/2026_reguard_preprint.pdf
     image: ../assets/img/reguard.png
   - title: "Making Logic a First-Class Citizen in Generative ML for Networking"
