@@ -42,7 +42,7 @@ body {
 }
 
 .social-icons a:hover,
-.social-icons a:focus {
+.social-icons a:focus-visible {
 	background-color: white;
 	color: black;
 	transform: scale(1.08);
@@ -84,8 +84,8 @@ body {
 
 .social-icons a:hover::after,
 .social-icons a:hover::before,
-.social-icons a:focus::after,
-.social-icons a:focus::before {
+.social-icons a:focus-visible::after,
+.social-icons a:focus-visible::before {
 	opacity: 1;
 	transform: translate(-50%, 0);
 }
