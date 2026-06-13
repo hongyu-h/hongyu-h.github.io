@@ -12,6 +12,7 @@ main:
     conference: 2026 USENIX NSDI
     title_link: https://www.usenix.org/conference/nsdi26/presentation/he
     pdf: https://www.usenix.org/system/files/nsdi26-he.pdf
+    video: https://youtu.be/4tMAjh8HxCM?si=zkm2lf-FzLK_-5Gt
     code: https://github.com/HongyuHe/NetNomos
     artifact_badges:
       - name: Artifact Available
