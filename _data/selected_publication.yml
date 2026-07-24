@@ -1,8 +1,20 @@
 main:
-  - title: "Worst-Case Discovery and Runtime Protection for RL-Based Network Controllers"
-    authors: <u>Hongyu Hè</u>, Minhao Jin, Maria Apostolaki
+  - title: "Let AI Agents Translate Networks, Not Reason About Them"
+    authors: <u>Hongyu Hè</u>, Maria Apostolaki
     conference_short: preprint
     conference: 2026 under review
+    pdf: ../papers/2026_preprint_typonet.pdf
+    image: ../assets/img/typonet.png
+  - title: "Invariant Discovery for Networked Systems"
+    authors: <u>Hongyu Hè</u>*, Alexander Krentsel*, Sylvia Ratnasamy, Maria Apostolaki <br>(* Equal contribution)
+    conference_short: preprint
+    conference: 2026 under review
+    pdf: ../papers/2026_preprint_autogram.pdf
+    image: ../assets/img/autogram.png
+  - title: "Worst-Case Discovery and Runtime Protection for RL-Based Network Controllers"
+    authors: <u>Hongyu Hè</u>, Minhao Jin, Maria Apostolaki
+    conference_short: NSDI
+    conference: 2027 USENIX NSDI (to appear)
     title_link: https://arxiv.org/abs/2605.04373
     pdf: ../papers/2026_reguard_preprint.pdf
     image: ../assets/img/reguard.png
