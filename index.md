@@ -70,8 +70,8 @@ Hongyu Hè `\ˈho:nˌu hə\` is a second-year PhD student in Electrical Engineer
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><b>Apple</b></div>
-      <div class="periodical"><i>Visual Intelligence Team, <a href="https://machinelearning.apple.com/">AI/ML</a></i></div>
-      <div class="author">Research Engineer Intern — summer 2023</div>
+      <div class="periodical"><i>Visual Intelligence Team</i></div>
+      <div class="author"> <a href="https://machinelearning.apple.com/">AI/ML</a> Intern — summer 2023</div>
   </div>
 </div>
 <div style="margin-top: 10px;"></div>
