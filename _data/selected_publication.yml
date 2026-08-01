@@ -3,12 +3,14 @@ main:
     authors: <u>Hongyu Hè</u>, Maria Apostolaki
     conference_short: preprint
     conference: 2026 under review
+    title_link: https://arxiv.org/abs/2607.22947
     pdf: ../papers/2026_preprint_typonet.pdf
     image: ../assets/img/typonet.png
   - title: "Invariant Discovery for Networked Systems"
     authors: <u>Hongyu Hè</u>*, Alexander Krentsel*, Sylvia Ratnasamy, Maria Apostolaki <br>(* Equal contribution)
     conference_short: preprint
     conference: 2026 under review
+    title_link: https://arxiv.org/abs/2607.22944
     pdf: ../papers/2026_preprint_autogram.pdf
     image: ../assets/img/autogram.png
   - title: "Worst-Case Discovery and Runtime Protection for RL-Based Network Controllers"
