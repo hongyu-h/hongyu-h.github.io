@@ -44,6 +44,8 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .abbr abbr.badge-preprint { background-color: #0969da; }
 
+.publications ol.bibliography li .abbr abbr.badge-hotnets { background-color: #c62828; }
+
 .publications ol.bibliography li .abbr abbr a { color: white; }
 
 .publications ol.bibliography li .abbr abbr a:hover { text-decoration: none; }

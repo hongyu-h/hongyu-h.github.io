@@ -1,0 +1,215 @@
+- generic [active]:
+  - generic [ref=e1]:
+    - link [ref=e2] [cursor=pointer]:
+      - /url: https://www.princeton.edu/
+    - generic:
+      - link "Service" [ref=e4] [cursor=pointer]:
+        - /url: ./service/
+      - link "Teaching" [ref=e5] [cursor=pointer]:
+        - /url: ./teaching/
+      - link "Mentoring" [ref=e6] [cursor=pointer]:
+        - /url: ./mentees/
+      - link "Home" [ref=e7] [cursor=pointer]:
+        - /url: ././
+    - text: 
+  - generic [ref=e8] [cursor=pointer]: Back to Top
+  - generic:
+    - banner [ref=e9]:
+      - img "avatar" [ref=e11]
+      - heading "Hongyu Hè" [level=1] [ref=e12]
+      - generic [ref=e13]: 2nd-year PhD student Electrical Engineering
+      - link "Princeton University" [ref=e14] [cursor=pointer]:
+        - /url: https://www.princeton.edu/
+      - text: computer networking, machine learning, formal logic
+      - generic [ref=e15]:
+        - link "Google Scholar" [ref=e16] [cursor=pointer]:
+          - /url: https://scholar.google.com/citations?user=5tCb78AAAAAJ&sortby=pubdate
+          - generic [ref=e17]: 
+          - text: Google Scholar
+        - link "Curriculum Vitae" [ref=e18] [cursor=pointer]:
+          - /url: https://cutt.ly/9yyKIq2s
+          - generic [ref=e19]: 
+          - text: Curriculum Vitae
+        - link "GitHub" [ref=e20] [cursor=pointer]:
+          - /url: https://github.com/HongyuHe/
+          - generic [ref=e21]: 
+          - text: GitHub
+        - link "YouTube" [ref=e22] [cursor=pointer]:
+          - /url: https://www.youtube.com/@hongyu_he
+          - generic [ref=e23]: 
+          - text: YouTube
+        - link "Blog" [ref=e24] [cursor=pointer]:
+          - /url: https://hongyu.nl/
+          - generic [ref=e25]: 
+          - text: Blog
+    - generic [ref=e26]:
+      - paragraph [ref=e27]
+      - paragraph [ref=e28]:
+        - text: Hongyu Hè
+        - code [ref=e29]: \ˈho:nˌu hə\
+        - text: is a second-year PhD student in Electrical Engineering at Princeton, advised by
+        - link "Prof. Maria Apostolaki" [ref=e30] [cursor=pointer]:
+          - /url: https://netsyn.princeton.edu/people/maria-apostolaki
+        - text: . At Princeton, He is a
+        - link "NAM" [ref=e31] [cursor=pointer]:
+          - /url: https://nam.ai.princeton.edu/
+        - text: Fellow’25 in AI and
+        - link "UAF" [ref=e32] [cursor=pointer]:
+          - /url: https://gradfutures.princeton.edu/gain-experience/university-administrative-fellowships
+        - text: Fellow’24 in CS. His research sits at the intersection of computer networking, formal logic, and machine learning. Hongyu earned his MSc in CS from ETH Zürich as one of six
+        - link "Direct Doctoral Scholars" [ref=e33] [cursor=pointer]:
+          - /url: https://inf.ethz.ch/doctorate/direct-doctorate-computer-science.html
+        - text: in 2024. At ETH, he worked with
+        - link "Prof. Gustavo Alonso" [ref=e34] [cursor=pointer]:
+          - /url: https://people.inf.ethz.ch/alonso/
+        - text: in the
+        - link "Systems Group" [ref=e35] [cursor=pointer]:
+          - /url: https://systems.ethz.ch/
+        - text: on FPGA research and was an associated researcher at the
+        - link "AI Center" [ref=e36] [cursor=pointer]:
+          - /url: https://ai.ethz.ch/
+        - text: . Hongyu previously studied Math and CS in Amsterdam, where he was led into research by
+        - link "Prof. Andy Tanenbaum" [ref=e37] [cursor=pointer]:
+          - /url: https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum
+        - text: and graduated with the
+        - link "ADS Thesis Award" [ref=e38] [cursor=pointer]:
+          - /url: https://abs.uva.nl/content/news/2021/07/the-2021-ads-thesis-awards-are-now-open-for-nominations.html
+        - text: . In 2019, he received the
+        - link "Young Talent Award" [ref=e39] [cursor=pointer]:
+          - /url: https://khmw.nl/khmw-jong-talent-prijzen-khmw-young-talent-awards/
+        - text: from the
+        - link "Royal Holland Society" [ref=e40] [cursor=pointer]:
+          - /url: https://khmw.nl/over_ons/
+        - text: for achieving the highest GPA. Originally, Hongyu attended
+        - link "law school" [ref=e41] [cursor=pointer]:
+          - /url: https://law.tju.edu.cn/English.htm
+        - text: in China before turning to science and engineering.
+      - separator [ref=e42]
+      - heading [level=2] [ref=e43]:
+        - text: Selected Publications (
+        - link "full list" [ref=e44] [cursor=pointer]:
+          - /url: https://scholar.google.com/citations?user=5tCb78AAAAAJ&sortby=pubdate
+        - text: )
+      - list [ref=e46]:
+        - listitem [ref=e47]:
+          - generic [ref=e48]:
+            - generic [ref=e49]: preprint
+            - generic [ref=e52]:
+              - link "Let AI Agents Translate Networks, Not Reason About Them" [ref=e54] [cursor=pointer]:
+                - /url: https://arxiv.org/abs/2607.22947
+              - generic [ref=e55]: Hongyu Hè, Maria Apostolaki
+              - emphasis [ref=e57]: 2026 under review
+              - button "PDF" [ref=e59] [cursor=pointer]
+      - list [ref=e61]:
+        - listitem [ref=e62]:
+          - generic [ref=e63]:
+            - generic [ref=e64]: NSDI
+            - generic [ref=e67]:
+              - link "Worst-Case Discovery and Runtime Protection for RL-Based Network Controllers" [ref=e69] [cursor=pointer]:
+                - /url: https://arxiv.org/abs/2605.04373
+              - generic [ref=e70]: Hongyu Hè, Minhao Jin, Maria Apostolaki
+              - emphasis [ref=e72]: 2027 USENIX NSDI (to appear)
+              - button "PDF" [ref=e74] [cursor=pointer]
+      - list [ref=e76]:
+        - listitem [ref=e77]:
+          - generic [ref=e78]:
+            - generic [ref=e79]: HotNets
+            - generic [ref=e82]:
+              - link "Invariant Discovery for Networked Systems" [ref=e84] [cursor=pointer]:
+                - /url: https://arxiv.org/abs/2607.22944
+              - generic [ref=e85]: Hongyu Hè*, Alexander Krentsel*, Sylvia Ratnasamy, Maria Apostolaki (* Equal contribution)
+              - emphasis [ref=e87]: 2027 ACM HotNets (to appear)
+              - button "PDF" [ref=e89] [cursor=pointer]
+      - list [ref=e91]:
+        - listitem [ref=e92]:
+          - generic [ref=e93]:
+            - generic [ref=e94]: NSDI
+            - generic [ref=e97]:
+              - link "Making Logic a First-Class Citizen in Generative ML for Networking" [ref=e99] [cursor=pointer]:
+                - /url: https://www.usenix.org/conference/nsdi26/presentation/he
+              - generic [ref=e100]: Hongyu Hè, Minhao Jin, Maria Apostolaki
+              - emphasis [ref=e102]: 2026 USENIX NSDI
+              - generic [ref=e103]:
+                - button "PDF" [ref=e104] [cursor=pointer]
+                - button "Code" [ref=e105] [cursor=pointer]
+                - button "Video" [ref=e106] [cursor=pointer]
+              - generic "Artifact badges" [ref=e107]:
+                - generic [ref=e108]:
+                  - link [ref=e109] [cursor=pointer]:
+                    - /url: https://secartifacts.github.io/usenixsec2026/badges
+                    - img "USENIX artifact badge - Available" [ref=e110]
+                  - generic [ref=e111]: Available
+                - generic [ref=e112]: ","
+                - generic [ref=e113]:
+                  - link [ref=e114] [cursor=pointer]:
+                    - /url: https://secartifacts.github.io/usenixsec2026/badges
+                    - img "USENIX artifact badge - Functional" [ref=e115]
+                  - generic [ref=e116]: Functional
+                - generic [ref=e117]: ","
+                - generic [ref=e118]:
+                  - link [ref=e119] [cursor=pointer]:
+                    - /url: https://secartifacts.github.io/usenixsec2026/badges
+                    - img "USENIX artifact badge - Reproduced" [ref=e120]
+                  - generic [ref=e121]: Reproduced
+      - list [ref=e123]:
+        - listitem [ref=e124]:
+          - generic [ref=e125]:
+            - generic [ref=e126]: HotNets
+            - generic [ref=e129]:
+              - link "Just-in-Time Logic Enforcement" [ref=e131] [cursor=pointer]:
+                - /url: https://dl.acm.org/doi/10.1145/3772356.3772406
+              - generic [ref=e132]: Hongyu Hè, Maria Apostolaki
+              - emphasis [ref=e134]: 2025 ACM HotNets
+              - generic [ref=e135]:
+                - button "PDF" [ref=e136] [cursor=pointer]
+                - button "Code" [ref=e137] [cursor=pointer]
+                - button "Video" [ref=e138] [cursor=pointer]
+      - heading "Industry Experience" [level=2] [ref=e139]
+      - generic [ref=e143]:
+        - generic [ref=e144]: Microsoft
+        - generic [ref=e145]:
+          - link "Networking Research Group" [ref=e146] [cursor=pointer]:
+            - /url: https://www.microsoft.com/en-us/research/group/networking-research/
+          - text: "(mentors:"
+          - link "Siva Kakarla" [ref=e147] [cursor=pointer]:
+            - /url: https://www.sivak.dev/
+          - text: and
+          - link "Ryan Beckett" [ref=e148] [cursor=pointer]:
+            - /url: https://www.microsoft.com/en-us/research/people/rybecket/
+          - text: )
+        - generic [ref=e149]: Research Intern — summer 2026
+      - generic [ref=e153]:
+        - generic [ref=e154]: Curieo AI (sold)
+        - generic [ref=e155]: ML Research Fellow — summer 2024
+      - generic [ref=e159]:
+        - generic [ref=e160]: IBM Zürich Lab
+        - generic [ref=e161]: Geodata Team
+        - generic [ref=e162]: Engineering Intern — spring 2024, part-time
+      - generic [ref=e166]:
+        - generic [ref=e167]: Apple
+        - generic [ref=e168]: Visual Intelligence Team
+        - generic [ref=e169]:
+          - link "AI/ML" [ref=e170] [cursor=pointer]:
+            - /url: https://machinelearning.apple.com/
+          - text: Intern — summer 2023
+      - generic [ref=e174]:
+        - generic [ref=e175]: Oracle Labs
+        - generic [ref=e176]: Serverless Team
+        - generic [ref=e177]: Graal Cloud Native Intern — spring 2023, part-time
+      - generic [ref=e181]:
+        - generic [ref=e182]: Huawei Nederland
+        - generic [ref=e183]: Search Team
+        - generic [ref=e184]: R&D Intern — winter 2021
+      - generic [ref=e188]:
+        - generic [ref=e189]: Picnic Technologies
+        - generic [ref=e190]: Store Team
+        - generic [ref=e191]: Software Developer — 2021, part-time
+        - generic [ref=e192]: Software Engineer Intern — summer 2020
+      - heading "Contact" [level=2] [ref=e193]
+      - paragraph [ref=e194]: "For academic inquiries: hhy@g.princeton For campus activities: hhy@cs.princeton For other matters: hongyuhe.cs@googlemail"
+      - paragraph [ref=e195]: 5G, 2nd Floor, Friend Center 7799 William St Princeton, NJ 08540
+      - link "© 2025 The Trustees of Princeton University." [ref=e197] [cursor=pointer]:
+        - /url: https://accessibility.princeton.edu/
+    - contentinfo [ref=e198]:
+      - generic:
+        - paragraph
