@@ -4,12 +4,12 @@ position: 2nd-year PhD student <br> Electrical Engineering
 affiliation: Princeton University
 affiliation_link: https://www.princeton.edu/
 affiliation_logo: ./assets/img/pu_stack.svg
-email: computer networking, machine learning, formal logic
+email: computer networking, machine learning, formal methods
 
 # Search Engine Optimization (SEO)
 keywords: hongyu hè, hongyu he, hongyu he eth, phd student, princeton university, machine learning, computer networks, formal methods, hongyu he princeton, hongyu he phd, hongyu he machine learning, hongyu he computer networks, hongyu he formal methods
 canonical: https://hhy.ee.princeton.edu
-description: Hongyu Hè is a PhD student at Princeton University. His research sits at the intersection of computer networking, formal logic, and machine learning.
+description: Hongyu Hè is a PhD student at Princeton University. His research sits at the intersection of computer networking, formal methods, and machine learning.
 
 # The option is used to enable the Illinois template.
 enable_hopkins_logo: true
