@@ -11,14 +11,14 @@ main:
     conference_short: NSDI
     conference: 2027 USENIX NSDI (to appear)
     title_link: https://arxiv.org/abs/2605.04373
-    pdf: ../papers/2026_preprint_reguard.pdf
+    pdf: ../papers/2027_nsdi_reguard.pdf
     image: ../assets/img/reguard.png
   - title: "Invariant Discovery for Networked Systems"
     authors: <u>Hongyu Hè</u>*, Alexander Krentsel*, Sylvia Ratnasamy, Maria Apostolaki <br>(* Equal contribution)
     conference_short: HotNets
     conference: 2026 ACM HotNets (to appear)
     title_link: https://arxiv.org/abs/2607.22944
-    pdf: ../papers/2026_preprint_autogram.pdf
+    pdf: ../papers/2026_hotnets_autogram.pdf
     image: ../assets/img/autogram.png
   - title: "Making Logic a First-Class Citizen in Generative ML for Networking"
     authors: <u>Hongyu Hè</u>, Minhao Jin, Maria Apostolaki

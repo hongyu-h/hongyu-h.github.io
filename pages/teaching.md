@@ -9,6 +9,7 @@ permalink: /teaching/
 # Teaching
 
 ### Computer Networks (Princeton)
+* See [our paper <i class="fas fa-file-pdf" aria-hidden="true"></i>](../papers/2026_hotnets_students.pdf) on mining students' operations to help improve AI network operators.
 * Fall 2025 [COS461/ECE471](https://www.cs.princeton.edu/courses/archive/fall25/cos461/), **Head TA**
     * Office hours: Tue 2:30-4:30pm @ CS 201
 * I lead the routing project:
@@ -23,6 +24,8 @@ permalink: /teaching/
 
 ### Distributed Systems Lab (ETH Zürich)
 * Frühjahrs 2022, [252-0817-00P](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=158003&semkez=2022S&ansicht=LEHRVERANSTALTUNGEN&lang=en) 
+
+---
 
 From 2019 to 2021, I served a TA at Vrije Universiteit Amsterdam (CS) and Universiteit van Amsterdam (Math) for the following courses:
 * Physical Computing
