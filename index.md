@@ -41,7 +41,7 @@ Hongyu Hè `\ˈho:nˌu hə\` is a second-year PhD student in Electrical Engineer
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://hongyuhe.github.io/assets/images/curieo.jpg" class="company-logo teaser img-fluid z-depth-1">
+    <img src="/assets/img/curieo.jpg" class="company-logo teaser img-fluid z-depth-1">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><b>Curieo AI (sold)</b></div>
@@ -54,7 +54,7 @@ Hongyu Hè `\ˈho:nˌu hə\` is a second-year PhD student in Electrical Engineer
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://hongyuhe.github.io/assets/images/ibm_logo.png" class="company-logo teaser img-fluid z-depth-1">
+    <img src="/assets/img/ibm_logo.png" class="company-logo teaser img-fluid z-depth-1">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><b>IBM Zürich Lab</b></div>
@@ -66,7 +66,7 @@ Hongyu Hè `\ˈho:nˌu hə\` is a second-year PhD student in Electrical Engineer
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://hongyuhe.github.io/assets/images/apple_logo.png" class="company-logo teaser img-fluid z-depth-1">
+    <img src="/assets/img/apple_logo.png" class="company-logo teaser img-fluid z-depth-1">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><b>Apple</b></div>
@@ -78,7 +78,7 @@ Hongyu Hè `\ˈho:nˌu hə\` is a second-year PhD student in Electrical Engineer
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://hongyuhe.github.io/assets/images/oracle_logo.jpeg" class="company-logo teaser img-fluid z-depth-1">
+    <img src="/assets/img/oracle_logo.jpeg" class="company-logo teaser img-fluid z-depth-1">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><b>Oracle Labs</b></div>
@@ -90,7 +90,7 @@ Hongyu Hè `\ˈho:nˌu hə\` is a second-year PhD student in Electrical Engineer
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://hongyuhe.github.io/assets/images/huawei_logo.png" class="company-logo teaser img-fluid z-depth-1">
+    <img src="/assets/img/huawei_logo.png" class="company-logo teaser img-fluid z-depth-1">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><b>Huawei Nederland</b></div>
@@ -102,7 +102,7 @@ Hongyu Hè `\ˈho:nˌu hə\` is a second-year PhD student in Electrical Engineer
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://hongyuhe.github.io/assets/images/picnic_logo.png" class="company-logo teaser img-fluid z-depth-1">
+    <img src="/assets/img/picnic_logo.png" class="company-logo teaser img-fluid z-depth-1">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><b>Picnic Technologies</b></div>

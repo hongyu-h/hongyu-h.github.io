@@ -29,7 +29,7 @@ youtube: https://www.youtube.com/@hongyu_he
 blog: https://hongyu.nl/
 
 # Images 
-avatar: https://hongyu.nl/assets/images/me_pton_square.jpg 
+avatar: /assets/img/me_pton_square.jpg
 
 # Footnotes
 footnote: © 2025 The Trustees of Princeton University.
