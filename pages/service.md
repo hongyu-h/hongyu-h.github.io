@@ -8,6 +8,10 @@ permalink: /service/
 
 # Service
 
+## Community Associate
+
+As a [CA](https://gradschool.princeton.edu/student-experience/meet-team), I serve grad students living on the [Meadows campus](https://facilities.princeton.edu/projects/meadows-neighborhood) at Princeton, organizing community events such as [movies](https://www.princetongardentheatre.org/) and [concerts](https://concerts.princeton.edu/).
+
 ## CS Book Club
 At Princeton, I organize a book club in the CS department. 
 See [this page](/bookclub) for more details.
