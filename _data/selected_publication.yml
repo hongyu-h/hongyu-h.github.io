@@ -12,6 +12,25 @@ main:
     conference: 2027 USENIX NSDI (to appear)
     title_link: https://arxiv.org/abs/2605.04373
     pdf: ../papers/2027_nsdi_reguard.pdf
+    artifact_badges:
+      - name: Artifact Available
+        key: available
+        label: Available
+        image: ../assets/img/usenixbadges-available-v2.png
+        url: https://secartifacts.github.io/usenixsec2026/badges
+        alt: USENIX artifact badge - Available
+      - name: Artifact Functional
+        key: functional
+        label: Functional
+        image: ../assets/img/usenixbadges-functional-v2.png
+        url: https://secartifacts.github.io/usenixsec2026/badges
+        alt: USENIX artifact badge - Functional
+      - name: Artifact Reproduced
+        key: reproduced
+        label: Reproduced
+        image: ../assets/img/usenixbadges-reproduced-v2.png
+        url: https://secartifacts.github.io/usenixsec2026/badges
+        alt: USENIX artifact badge - Reproduced
     image: ../assets/img/reguard.png
   - title: "Invariant Discovery for Networked Systems"
     authors: <u>Hongyu Hè</u>*, Alexander Krentsel*, Sylvia Ratnasamy, Maria Apostolaki <br>(* Equal contribution)
