@@ -35,9 +35,12 @@ main:
   - title: "Invariant Discovery for Networked Systems"
     authors: <u>Hongyu Hè</u>*, Alexander Krentsel*, Sylvia Ratnasamy, Maria Apostolaki <br>(* Equal contribution)
     conference_short: HotNets
-    conference: 2026 ACM HotNets (to appear)
+    conference: 2026 ACM HotNets
     title_link: https://arxiv.org/abs/2607.22944
     pdf: ../papers/2026_hotnets_autogram.pdf
+    presentation: https://youtu.be/xzxqgkfOEPg
+    demo: https://youtu.be/UjcgohBt810
+    web: https://hongyu.nl/autogram/
     image: ../assets/img/autogram.png
   - title: "Making Logic a First-Class Citizen in Generative ML for Networking"
     authors: <u>Hongyu Hè</u>, Minhao Jin, Maria Apostolaki

@@ -24,6 +24,15 @@
       {% if link.video %}
       <a href="{{ link.video }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
       {% endif %}
+      {% if link.presentation %}
+      <a href="{{ link.presentation }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">Video</a>
+      {% endif %}
+      {% if link.demo %}
+      <a href="{{ link.demo }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">Demo</a>
+      {% endif %}
+      {% if link.web %}
+      <a href="{{ link.web }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">Web</a>
+      {% endif %}
       {% if link.page %} 
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       {% endif %}
